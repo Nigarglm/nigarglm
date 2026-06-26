@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋 I'm Nigar
+</h1>
 
-<!--
-**Nigarglm/nigarglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  IT İnstructor | Python & CS Educator | Project Manager | MERN Stack Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Teaching+Technology+to+Young+Minds;Building+Projects+with+Purpose;Exploring+AI+%26+Innovation;Creating+Impact+Through+Education" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 Computer Engineering student  
+💻 IT Instructor passionate about technology education  
+🚀 Project Manager experienced in organizing educational initiatives  
+🤖 Exploring Artificial Intelligence and innovative solutions  
+🌱 Always learning, building, and improving  
+
+I believe technology becomes more powerful when it is combined with creativity, communication, and human impact.
+
+---
+
+## 🛠️ Skills
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Experience
+
+👩‍🏫 IT Instructor  
+- Teaching programming concepts and digital skills
+
+📋 Project Manager  
+- Planning educational projects
+- Coordinating teams and activities
+- Managing project documentation
+
+🎤 Trainer & Mentor  
+- Developing soft skills and technology awareness
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+
+---
+
+<h3 align="center">
+✨ Turning ideas into projects ✨
+</h3>
