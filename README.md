@@ -53,13 +53,7 @@ I believe technology becomes more powerful when it is combined with creativity, 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nigarglm&show_icons=true&theme=tokyonight" />
 
 ---
 
