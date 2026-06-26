@@ -7,25 +7,24 @@
 </div>
 
 
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 
 
 ## 🌸 About Me
+
 🎓 Computer Engineering Student  
 💻 IT Instructor | Python & CS Educator  
 🚀 Project Manager  
 🌱 Building educational projects & digital solutions  
 🤖 Exploring AI and innovative technologies  
 
-
 > ✨ I believe technology becomes meaningful when it creates impact.
 
 
-
+<br>
 
 
 ## 🛠️ Tech Stack
-
 
 <p>
 
@@ -34,11 +33,10 @@
 </p>
 
 
-
+<br>
 
 
 ## 🚀 What I Do
-
 
 <table>
 <tr>
@@ -46,6 +44,7 @@
 <td width="50%">
 
 ### 👩‍🏫 Education
+
 Teaching programming concepts and helping students build their first steps in technology.
 
 </td>
@@ -53,6 +52,7 @@ Teaching programming concepts and helping students build their first steps in te
 <td width="50%">
 
 ### 📋 Projects
+
 Planning, managing and delivering educational & technology projects.
 
 </td>
@@ -62,8 +62,6 @@ Planning, managing and delivering educational & technology projects.
 
 
 <br>
-
-
 
 
 <div align="center">
