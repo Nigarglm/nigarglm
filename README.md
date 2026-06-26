@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://tenor.com/cWrw4c2Pf1C.gif" width="450"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem90MGF0ajFidmwzdWFzZnE5M2lzMng3OTdzdG43Z2thNWx2ZmdoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="450"/>
 </p>
 
 <p align="center">
