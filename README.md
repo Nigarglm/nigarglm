@@ -22,7 +22,7 @@
 > ✨ I believe technology becomes meaningful when it creates impact.
 
 
-<br>
+
 
 
 ## 🛠️ Tech Stack
@@ -35,7 +35,7 @@
 </p>
 
 
-<br>
+
 
 
 ## 🚀 What I Do
