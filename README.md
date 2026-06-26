@@ -51,12 +51,6 @@ I believe technology becomes more powerful when it is combined with creativity, 
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nigarglm&show_icons=true&theme=tokyonight" />
-
----
-
 <h3 align="center">
 ✨ Turning ideas into projects ✨
 </h3>
