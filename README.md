@@ -18,10 +18,9 @@
 🌱 Building educational projects & digital solutions  
 🤖 Exploring AI and innovative technologies  
 
-<br>
-
-> ✨ I believe technology becomes meaningful when it creates impact.
-
+<p align="center">
+✨ I believe technology becomes meaningful when it creates impact.
+</p>
 
 <br>
 
