@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000" width="450"/>
+  <img src="https://tenor.com/cWrw4c2Pf1C.gif" width="450"/>
 </p>
 
 <p align="center">
