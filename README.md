@@ -20,7 +20,7 @@
 🚀 Project Manager  
 🌱 Building educational projects & digital solutions  
 🤖 Exploring AI and innovative technologies  
-<br><br>
+<br>
 <p>
 ✨ Technology becomes meaningful when it creates impact ✨
 </p>
