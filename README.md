@@ -6,6 +6,8 @@
   IT İnstructor | Python & CS Educator | Project Manager | MERN Stack Developer | AI Enthusiast
 </h3>
 
+<img src="https://media.giphy.com/media/https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIyY3d0cHJuM3owY3oyc3FkeTA1ZzMzYWoxNWx3OXNoN2szc3NjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="400"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Teaching+Technology+to+Young+Minds;Building+Projects+with+Purpose;Exploring+AI+%26+Innovation;Creating+Impact+Through+Education" />
 </p>
