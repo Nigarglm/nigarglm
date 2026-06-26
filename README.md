@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
+<img align="right" width="380" margin-top="30px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 
 
 ## 🌸 About Me
