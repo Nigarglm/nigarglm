@@ -11,7 +11,6 @@
 
 
 ## 🌸 About Me
-
 🎓 Computer Engineering Student  
 💻 IT Instructor | Python & CS Educator  
 🚀 Project Manager  
