@@ -10,16 +10,18 @@
 <img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 
 
-<h2>🌸 About Me</h2> 
-
-🎓 Computer Engineering Student  
-💻 IT Instructor | Python & CS Educator  
-🚀 Project Manager  
-🌱 Building educational projects & digital solutions  
-🤖 Exploring AI and innovative technologies  
+<h2>🌸 About Me</h2>
 
 <p>
-✨ I believe technology becomes meaningful when it creates impact.
+🎓 Computer Engineering Student <br>
+💻 IT Instructor | Python & CS Educator <br>
+🚀 Project Manager <br>
+🌱 Building educational projects & digital solutions <br>
+🤖 Exploring AI and innovative technologies
+</p>
+
+<p align="center">
+✨ Technology becomes meaningful when it creates impact ✨
 </p>
 
 <br>
