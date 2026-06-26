@@ -65,18 +65,6 @@ Planning, managing and delivering educational & technology projects.
 <br>
 
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nigarglm&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
-<br>
-
 
 
 <div align="center">
