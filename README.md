@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="right" width="380" margin-top="30px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
+<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 
 
 ## 🌸 About Me
@@ -77,14 +77,6 @@ Planning, managing and delivering educational & technology projects.
 
 <br>
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nigarglm/nigarglm/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 
 <div align="center">
