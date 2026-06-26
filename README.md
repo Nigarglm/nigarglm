@@ -16,17 +16,12 @@
 <h2>🌸 About Me</h2>
 
 🎓 Computer Engineering Student  
-<br>
 💻 IT Instructor | Python & CS Educator  
-<br>
 🚀 Project Manager  
-<br>
 🌱 Building educational projects & digital solutions  
-<br>
 🤖 Exploring AI and innovative technologies  
-
-
-<p align="center">
+<br><br>
+<p>
 ✨ Technology becomes meaningful when it creates impact ✨
 </p>
 
