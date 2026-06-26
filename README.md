@@ -6,7 +6,9 @@
   IT İnstructor | Python & CS Educator | Project Manager | MERN Stack Developer | AI Enthusiast
 </h3>
 
-<div class="tenor-gif-embed" data-postid="14561996707246089000" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000">Ai Grok Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000" width="450"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Teaching+Technology+to+Young+Minds;Building+Projects+with+Purpose;Exploring+AI+%26+Innovation;Creating+Impact+Through+Education" />
