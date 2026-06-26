@@ -1,60 +1,94 @@
-<h1 align="center">
-  Hi 👋 I'm Nigar
-</h1>
+<div align="center">
 
-<h3 align="center">
-  IT İnstructor | Python & CS Educator | Project Manager | MERN Stack Developer | AI Enthusiast
-</h3>
+# 👋 Hi, I'm Nigar
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="450"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=700&lines=IT+Instructor+%F0%9F%92%BB;Python+%26+CS+Educator+%F0%9F%8E%93;Project+Manager+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Teaching+Technology+to+Young+Minds;Building+Projects+with+Purpose;Exploring+AI+%26+Innovation;Creating+Impact+Through+Education" />
-</p>
+</div>
 
----
 
-## 👩‍💻 About Me
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0eTY3cTFrNDdmaGNvOGlrcGp3dDB1OXNtNDBrenZ6Z2g1d3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 
-🎓 Computer Engineering student  
-💻 IT Instructor passionate about technology education  
-🚀 Project Manager experienced in organizing educational initiatives  
-🤖 Exploring Artificial Intelligence and innovative solutions  
-🌱 Always learning, building, and improving  
 
-I believe technology becomes more powerful when it is combined with creativity, communication, and human impact.
+## 🌸 About Me
 
----
+🎓 Computer Engineering Student  
+💻 IT Instructor | Python & CS Educator  
+🚀 Project Manager  
+🌱 Building educational projects & digital solutions  
+🤖 Exploring AI and innovative technologies  
 
-## 🛠️ Skills
+
+> ✨ I believe technology becomes meaningful when it creates impact.
+
+
+<br>
+
+
+## 🛠️ Tech Stack
+
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,git,github,vscode,figma" />
+
 </p>
 
----
 
-## 📌 Experience
+<br>
 
-👩‍🏫 IT Instructor  
-- Teaching programming concepts and digital skills
 
-📋 Project Manager  
-- Planning educational projects
-- Coordinating teams and activities
-- Managing project documentation
+## 🚀 What I Do
 
-🎤 Trainer & Mentor  
-- Developing soft skills and technology awareness
 
----
+<table>
+<tr>
 
-<h3 align="center">
-✨ Turning ideas into projects ✨
-</h3>
+<td width="50%">
+
+### 👩‍🏫 Education
+Teaching programming concepts and helping students build their first steps in technology.
+
+</td>
+
+<td width="50%">
+
+### 📋 Projects
+Planning, managing and delivering educational & technology projects.
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nigarglm&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+<br>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nigarglm/nigarglm/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+<div align="center">
+
+### ✨ Turning ideas into projects ✨
+
+</div>
