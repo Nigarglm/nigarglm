@@ -6,14 +6,19 @@
 
 </div>
 
+<div align="center">
+	<img width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqbGs5bmJjNmRoZnFvbXZ3Y3FkZzhyMjdwY2Nwc2dqdDduZTF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRk34eQg51mlvazIjC/giphy.gif">
+</div>
 
-<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqbGs5bmJjNmRoZnFvbXZ3Y3FkZzhyMjdwY2Nwc2dqdDduZTF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRk34eQg51mlvazIjC/giphy.gif">
+
 
 
 <br>
 
-
+<div>
 <h2>🌸 About Me</h2>
+
+<br>
 
 🎓 Computer Engineering Student  
 💻 IT Instructor | Python & CS Educator  
@@ -24,6 +29,8 @@
 <p>
 ✨ Technology becomes meaningful when it creates impact ✨
 </p>
+
+</div>
 
 
 <br>
